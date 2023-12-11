@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "871540178868",
+    "firebase_url": "https://zoljak-healthwise-default-rtdb.firebaseio.com",
+    "project_id": "zoljak-healthwise",
+    "storage_bucket": "zoljak-healthwise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871540178868:android:ba75eea3d429a50aa2fce1",
+        "android_client_info": {
+          "package_name": "com.example.zoljak_chat_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOYZNWb7tt5Il0exHyCc6fCGabUwSC2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871540178868:android:2d740f6f9a0229dfa2fce1",
+        "android_client_info": {
+          "package_name": "com.example.zoljak_community_testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOYZNWb7tt5Il0exHyCc6fCGabUwSC2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871540178868:android:f83983de55a84e09a2fce1",
+        "android_client_info": {
+          "package_name": "com.example.zoljak_firebase_community"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOYZNWb7tt5Il0exHyCc6fCGabUwSC2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871540178868:android:5ffb353e99d1848ba2fce1",
+        "android_client_info": {
+          "package_name": "com.example.zoljak_firebase_firestore_read_write_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOYZNWb7tt5Il0exHyCc6fCGabUwSC2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871540178868:android:ff8750537274243ca2fce1",
+        "android_client_info": {
+          "package_name": "com.example.zoljak_firebase_list_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApOYZNWb7tt5Il0exHyCc6fCGabUwSC2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

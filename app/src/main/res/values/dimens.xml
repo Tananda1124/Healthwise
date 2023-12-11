@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSmall">20sp</dimen>
+    <dimen name="textMedium">40sp</dimen>
+    <dimen name="textBig">60sp</dimen>
+
+    <dimen name="sizeVerySmall">35dp</dimen>
+    <dimen name="sizeSmall">50dp</dimen>
+    <dimen name="sizeMedium">70dp</dimen>
+    <dimen name="sizeBig">100dp</dimen>
+    <dimen name="sizeVeryBig">200dp</dimen>
+    <dimen name="food_title_text">50sp</dimen>
+    <dimen name="layout_margin">20dp</dimen>
+    <dimen name="sizeBetween">10dp</dimen>
+</resources>

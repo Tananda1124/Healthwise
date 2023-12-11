@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="foodSearchSpinnerMenus">
+        <item>이름</item>
+        <item>칼로리</item>
+        <item>단백질</item>
+        <item>탄수화물</item>
+        <item>지방</item>
+    </string-array>
+</resources>

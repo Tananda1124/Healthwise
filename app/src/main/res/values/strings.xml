@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">zoljak_firebase_firestore_read_write_test</string>
+    <string name="title_menus">식사 입력하기</string>
+    <string name="text_grams">0g 섭취하셨습니다</string>
+    <string name="text_kcal">0Kcal 섭취하셨습니다</string>
+    <string name="search_editText_text">검색할 항목을 입력하세요</string>
+    <string name="search_button_text">검색</string>
+    <string name="string_auth_title">로그인/회원가입</string>
+    <string name="string_login">로그인</string>
+    <string name="string_join">회원가입</string>
+    <string name="string_hint_password">password</string>
+    <string name="string_hint_email">email</string>
+</resources>

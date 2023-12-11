@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|top"
+        android:textSize="50sp"
+        android:text="Firebase 테스트" />
+
+    <EditText
+        android:id="@+id/menuNameEditText"
+        android:layout_gravity="center|top"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:hint="입력할 메뉴 이름"
+        android:textAlignment="center" />
+
+    <EditText
+        android:id="@+id/menuCalEditText"
+        android:layout_gravity="center|top"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:hint="입력할 메뉴 칼로리"
+        android:textAlignment="center" />
+    <EditText
+        android:id="@+id/menuCarbonEditText"
+        android:layout_gravity="center|top"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:hint="입력할 메뉴 탄수"
+        android:textAlignment="center" />
+    <EditText
+        android:id="@+id/menuProteinEditText"
+        android:layout_gravity="center|top"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:hint="입력할 메뉴 단백질"
+        android:textAlignment="center" />
+    <EditText
+        android:id="@+id/menuFatEditText"
+        android:layout_gravity="center|top"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:hint="입력할 메뉴 지방"
+        android:textAlignment="center" />
+    <EditText
+        android:id="@+id/menuGramEditText"
+        android:layout_gravity="center|top"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:hint="입력할 메뉴 그램수"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/insertButton"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="입력하기" />
+
+
+    <EditText
+        android:layout_marginTop="50dp"
+        android:id="@+id/menuLoadEditText"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:hint="검색할 메뉴 데이터"
+        android:textAlignment="center"
+        android:layout_gravity="center"/>
+    <Button
+        android:id="@+id/loadButton"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="불러오기" />
+
+    <TextView
+        android:id="@+id/searchResultTextView"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:text="데이터" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/gotoFirebaseRecyclerViewTestActivity"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/baseline_call_missed_outgoing_24"
+            android:layout_gravity="right"
+            android:layout_marginRight="@dimen/sizeSmall"
+            android:contentDescription="TODO" />
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/gotoAuthButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/baseline_person_24"/>
+
+    </LinearLayout>
+
+</LinearLayout>
